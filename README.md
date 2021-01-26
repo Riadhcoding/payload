@@ -27,9 +27,9 @@ $ python payload.py
 ``
 
 # Enjoy 
-<img align="left" alt="Terminal" width="26px" src="icon/bash.jpg" >
-<img align="left" alt="Terminal" width="26px" src="icon/python.png" >
-<img align="left" alt="Terminal" width="26px" src="icon/pydroid.png" >
-<img align="left" alt="Terminal" width="26px" src="icon/git.png" >
-<img align="left" alt="Terminal" width="26px" src="icon/termux.jpg" >
-<img align="left" alt="Terminal" width="26px" src="icon/android.png" >
+<img align="left" alt="Terminal" width="26px" src="python-life/icon/bash.jpg" >
+<img align="left" alt="Terminal" width="26px" src="python-life/icon/python.png" >
+<img align="left" alt="Terminal" width="26px" src="python-life/icon/pydroid.png" >
+<img align="left" alt="Terminal" width="26px" src="python-life/icon/git.png" >
+<img align="left" alt="Terminal" width="26px" src="python-life/icon/termux.jpg" >
+<img align="left" alt="Terminal" width="26px" src="python-life/icon/android.png" >
