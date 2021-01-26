@@ -28,8 +28,4 @@ $ python payload.py
 
 # Enjoy 
 <img align="left" alt="Terminal" width="26px" src="https://github.com/python-life/icon/bash.jpg" >
-<img align="left" alt="Terminal" width="26px" src="python-life/icon/python.png" >
-<img align="left" alt="Terminal" width="26px" src="python-life/icon/pydroid.png" >
-<img align="left" alt="Terminal" width="26px" src="python-life/icon/git.png" >
-<img align="left" alt="Terminal" width="26px" src="python-life/icon/termux.jpg" >
-<img align="left" alt="Terminal" width="26px" src="python-life/icon/android.png" >
+
