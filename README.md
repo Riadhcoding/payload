@@ -14,16 +14,16 @@ $ git clone https://github.com/python-life/payload.git
 ``
 
 ``
-cd payload
+$ cd payload
 ``
 
 ``
-bash setup.sh
+$ bash setup.sh
 ``
 
 
 ``
-python payload.py
+$ python payload.py
 ``
 
 # Enjoy 
