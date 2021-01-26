@@ -26,6 +26,10 @@ $ cd payload
 ``
 
 ``
+$ chmod +x *
+``
+
+``
 $ bash setup.sh
 ``
 
