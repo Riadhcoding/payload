@@ -27,5 +27,5 @@ $ python payload.py
 ``
 
 # Enjoy 
-<img align="left" alt="Terminal" width="26px" src="https://github.com/python-life/icon/bash.jpg" >
+[![gambar](https://img.shields.io/youtube/views/9fZQg1TpzKY?label=Subscribes&style=social)](https://www.youtube.com/c/pythonlife)
 
