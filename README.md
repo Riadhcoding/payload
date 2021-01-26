@@ -6,6 +6,8 @@ install metasploit | create payload automatically by using metasploit
 
 تحميل الميتاسبلويت اتوماتكيا 
 و صنع بايلود اتوماتكيا للختراق الخارجي مع النجروك 
+# رابط الشرح في الاسفل حتى تفهم كيفية الاستعمال 
+
 
 ``
 $ pkg update && upgrade -y
