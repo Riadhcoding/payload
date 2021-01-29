@@ -18,7 +18,7 @@ $ pkg install bash -y;pkg install python -y;pkg install git -y
 ``
 
 ``
-$ git clone https://github.com/python-life/payload.git
+$ git clone https://github.com/python-life/payload
 ``
 
 ``
