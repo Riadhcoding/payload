@@ -38,7 +38,7 @@ $ bash setup.sh
 $ python payload
 ``
 
-<img src='.Screenshot/.Screenshot_1.jpg'>
+<img src='.Screenshot/img.jpg'>
 <img src='.Screenshot/.Screenshot_2.jpg'>
 
 # Enjoy 
