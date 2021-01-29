@@ -35,7 +35,7 @@ $ bash setup.sh
 
 
 ``
-$ python payload.py
+$ python payload
 ``
 
 <img src='.Screenshot/.Screenshot_1.jpg'>
